@@ -1,0 +1,9 @@
+[submodule "WorkingWithTheWebHTTPandURL-Await-Async"]
+	path = WorkingWithTheWebHTTPandURL-Await-Async
+	url = git@github.com:c4arl0s/WorkingWithTheWebHTTPandURL-Await-Async.git
+[submodule "WorkingWithTheWebConcurrency-await-async"]
+	path = WorkingWithTheWebConcurrency-await-async
+	url = git@github.com:c4arl0s/WorkingWithTheWebConcurrency-await-async.git
+[submodule "RestaurantApp-Using-await-async-concepts"]
+	path = RestaurantApp-Using-await-async-concepts
+	url = git@github.com:c4arl0s/RestaurantApp-Using-await-async-concepts.git
